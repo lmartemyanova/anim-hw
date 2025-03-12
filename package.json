@@ -9,7 +9,7 @@
     "serve": "webpack serve --env development",
     "start": "live-server src"
   },
-  "repository": "url",
+  "repository": "https://github.com/lmartemyanova/anim-hw",
   "author": "lmartemyanova",
   "license": "MIT",
   "devDependencies": {
